@@ -1,3 +1,6 @@
+import dotenv from "dotenv";
+import 'dotenv/config'
+
 export const explorePopularRepos = async (req, res) => {
     const {language} = req.params
   try {
