@@ -80,4 +80,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Acknowledgments
 ---------------
 
-* [Rishabh Raj Pathak]: Developer and maintainer of this project
+* Rishabh Raj Pathak: Developer and maintainer of this project
