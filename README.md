@@ -1,5 +1,4 @@
 # Pulse Post - A Blog Application
-=====================
 
 ## Overview
 -----------
